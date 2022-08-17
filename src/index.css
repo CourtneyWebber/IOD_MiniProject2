@@ -1,13 +1,40 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.navbar {
+    background-color: orange;
+    background-image: linear-gradient(to right, orange, yellow);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.navText {
+    font-family: 'Copperplate Gothic';
+    font-size: xx-large;
+}
+
+.add {
+    height: 60px;
+    width: 60px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+    .add:hover {
+        transform: scale(1.05);
+        opacity: 85%;
+    }
+
+.meme{
+    margin: 20px;
 }

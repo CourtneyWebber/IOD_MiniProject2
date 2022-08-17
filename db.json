@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Dogs are the best",
+      "date": "2020-03-09",
+      "image_label": "Adult black labrador",
+      "image_url": "https://elevageduverger.ca/wp-content/uploads/2019/12/Mel-and-Jak-24_square.jpg",
+      "description": "Definitely better than people, dogs are so cute and fluffy and waggly-tailed and I love them."
+    },
+    {
+      "id": 2,
+      "title": "Cats are decent too",
+      "date": "2022-03-09",
+      "image_label": "Tiny orange kitten so fluffy",
+      "image_url": "https://i.pinimg.com/originals/d3/24/77/d324778d0def3d158cc61740e972dfac.jpg",
+      "description": "You must pretend not to like them if you want to interact with them, otherwise they will sense your love and run away."
+    },
+    {
+      "title": "My Fluffmuffin",
+      "date": "8/16/2022, 7:52:15 PM",
+      "image_label": "Moo Moo",
+      "image_url": "blob:http://localhost:3000/760bfc55-81f1-4447-841d-fc7f31132335",
+      "description": "This is my fluffmuffin Mr Moo. He is the best.",
+      "id": 3
+    },
+    {
+      "title": "Testing picture",
+      "date": "8/16/2022, 8:03:09 PM",
+      "image_label": "Moon",
+      "image_url": "blob:http://localhost:3000/4f186a34-87ee-4a74-9022-2f34f443bb18",
+      "description": "It seems to work for a short time, and then disappear? Weird and annoying.",
+      "id": 4
+    },
+    {
+      "title": "Doing presentation",
+      "date": "8/17/2022, 9:13:36 AM",
+      "image_label": "Something",
+      "image_url": "blob:http://localhost:3000/362a398c-5c58-4f71-851e-9a08849a58e4",
+      "description": "Oh my gosh",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 100,
+      "first_name": "Donna",
+      "surname": "Noble",
+      "display_name": "Earth_Girl",
+      "email": "doctordonna@chiswicktemps.co.uk"
+    }
+  ]
+}
